@@ -1,0 +1,14 @@
+{
+  "solution": {
+    "path": "UnoAssetTestNet6WinUi.sln",
+    "projects": [
+		"UnoAssetTestNet6WinUi.Shared\\UnoAssetTestNet6WinUi.Shared.shproj",
+
+		"UnoAssetTestNet6WinUi.Mobile\\UnoAssetTestNet6WinUi.Mobile.csproj",
+
+		"UnoAssetTestNet6WinUi.Wasm\\UnoAssetTestNet6WinUi.Wasm.csproj",
+
+		"UnoAssetTestNet6WinUi.Skia.Gtk\\UnoAssetTestNet6WinUi.Skia.Gtk.csproj",
+    ]
+  }
+}
